@@ -1,0 +1,21 @@
+1. Generated data is used for the project. The data has
+been generated and stored as a SQL file. The data was
+generated from a website name mockaroo. The file of the
+generated data is in SQL format. I have created a table
+with all columns and then inserted each data to the table. As
+each row in the data is different, I have updated certain
+rows of the data in order to show certain functionality of the
+database. The data in the table hospital data is shown below.
+I have added data_generated.sql file for reference.
+
+
+2.The create file creates all tables.
+
+
+3.The load file loads data generated to each table.
+
+
+4.The query file has all the query we have executed.
+
+
+Run the files in the same order to get the results.
