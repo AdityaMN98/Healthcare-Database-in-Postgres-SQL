@@ -1,4 +1,5 @@
 
+<img src="Images/Header.jpg" alt="header"/>
 <h1 align="center">Healthcare Database in Postgres SQL</h1>
 
 ## 🚀 About:
